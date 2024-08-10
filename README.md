@@ -17,3 +17,6 @@ Weather Info is an Android application designed to provide real-time weather upd
 - **Android SDK:** Core framework for Android app development.
 
 # Screenshots
+<img src="https://github.com/user-attachments/assets/1ea9db9a-2cc7-495f-839d-a018fa553efd"  width="200" height="400">
+<img src="https://github.com/user-attachments/assets/9d23298b-ba6d-4bbf-959e-0d2da0c620da" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/0e97d34b-da8d-46f0-a5a7-12a56bac4dfa" width="200" height="400">
